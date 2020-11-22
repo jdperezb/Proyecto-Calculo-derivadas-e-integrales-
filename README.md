@@ -28,5 +28,4 @@ Integrales:
 3. Abrimos la carpeta "Calculadora-de-integrales-definidas-Java-master", ahora abrimos la carpeta "dist", seleccionamos el programa "Resolver Integrales Definidas".
 
 
-Descripcion del programa:
 
