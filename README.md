@@ -16,4 +16,17 @@ Debes  tener instalado  Netbeans Y JDK
 
 Ejecutar:
 
-Debes ectraer
+Derivadas:
+
+1. Debe descargar el archivo  y extraer la carpeta.
+2. Abrimos la carpeta  "Programa calculo".
+3. Vamos a la carpeta "java-graficarDerivadas-master" , ahora abrimos la carpeta "dist", seleccionamos el programa "GraficarDerivada".
+
+Integrales:
+
+2. Abrimos la carpeta  "Programa calculo".
+3. Abrimos la carpeta "Calculadora-de-integrales-definidas-Java-master", ahora abrimos la carpeta "dist", seleccionamos el programa "Resolver Integrales Definidas".
+
+
+Descripcion del programa:
+
